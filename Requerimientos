@@ -1,0 +1,32 @@
+# Wiki Page
+
+Plataforma web para publicar contenido sobre temas de programacion orientada a 
+desarrollo de sistemas operativos, arquictetura de computadoras, compiladores, 
+interpretes entre otro tipo de sistemas, se realizara publicaciones para aportar
+a sistemas de open source y free software, cualquier persona puede tener acceso 
+a esta informacion para aprender, este es la parte comun que ve el usuario. Los
+usuarios pueden compartir el contenido a traves de las redes sociales y dejar sus
+sugerencia o hacernos ver los errores encontrados en el contenido, la plataforma tendra 
+un acceso restringido donde solo se puede entrar si se tiene un usuario y una contraseña
+donde se pueden crear un tema como el kernelLinux, ProjectV, Compiladores, etc en el cual
+se puede ir añadiendo contenido, llamandose capitulos que contiene su respectivo nombre y
+donde se desarrollara el contenido en sí.
+
+La forma de crear el contenido, sera a traves de un panel donde se puede modificar la fuente,
+el tipo de letra, anadir imagenes, links, videos y codigo de algun lenguaje de programación 
+con el fin de enriquecer el contenido. Los errores y sugerencia de los usuarios se enviaran a la
+persona que esta acargo del tema y el contenido donde se econtraron los errores o se hicieron las
+sugerencias, a traves de una notificacion, tanto los temas como los capitulos se pueden eliminar. 
+
+Los mantenedores son aquellos que generan el contenido, estos tienen un perfil donde se encuentran sus
+datos basicos, su hoja de vida, por si estan interesados en su perfil para ser contratado por alguna empresa
+para que una persona sea mantenedor, se debe enviar la solicitud por medio de la plataforma o bien por medio 
+del grupo creado en facebook, varios mantenedores pueden dedicarse a colaborar en un mismo tema y mismo
+contenido
+
+Se podra generar reportes de las lecturas, la cantidad de usuarios que vienen a la pagina, del pais de donde 
+nos visitan, la cantidad de errores y sugerencia que nos hacen a traves de graficas.
+
+
+
+
