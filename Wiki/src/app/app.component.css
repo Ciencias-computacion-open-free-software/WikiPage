@@ -1,0 +1,37 @@
+.sowjs{
+    width: 100%;
+    background: rgb(36,39,117, 0.7);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.access-userspace{
+    top: 35%;
+    width: 30%;
+    height: 30vh;
+    margin: auto 0;
+    border: solid 2px;
+    border-radius:  10px;
+    box-sizing: border-box;
+    margin-left: 35%;
+    position: relative;
+    padding: 2%;
+    background: rgb(167,168,199);
+}
+
+.username{
+
+    margin-left: 30%;
+    margin-top: 10%;
+} 
+
+.password {
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
+
+.begin{
+    margin-left: 40%;
+}
